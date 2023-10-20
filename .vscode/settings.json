@@ -1,0 +1,16 @@
+{
+  "window.title": "${activeEditorShort} - UrqlTest",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.eol": "\n",
+  "files.exclude": {},
+  "search.exclude": {
+    ".next": true,
+    "package-lock.json": true,
+    "**/.git": true
+  }
+}
